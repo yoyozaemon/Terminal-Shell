@@ -1,7 +1,7 @@
 # Terminal-Shell
   Terminal Shell using Rust
 
-![](https://github.com/yoyozaemon/Terminl-Shell/blob/master/demo.gif?raw=true)
+![](https://github.com/yoyozaemon/Terminal-Shell/blob/master/demo.gif?raw=true)
 
 
 ## Installation
